@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background: #f8f8fc;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px #0001;
+  padding: 32px;
+}
+textarea {
+  font-size: 1.1em;
+  margin-bottom: 16px;
+}
+button {
+  font-size: 1em;
+  padding: 10px 24px;
+  background: #4574e0;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.preview-container {
+  margin-top: 32px;
+}
